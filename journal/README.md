@@ -1,12 +1,12 @@
 
-# Daily Journal - 2024-12-29
+Daily Journal - DD-MM-YYYY
 
-**Name:** Jane Doe
+Name:
 
-**Goals:**
-- Work on the team presentation
-- Prepare for the upcoming sprint
+Goals:
+- Task 1
+- Task 2
 
-**Reflections:**
-- Spent a lot of time debugging code.
-- Realized the need to prioritize tasks better.
+Reflections:
+- what i learnt/realised while doing task1 
+- what i learnt/realised while doing task 2
